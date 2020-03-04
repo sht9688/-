@@ -7,6 +7,7 @@
 完整版请联系2260223830<br>
 <b>系统说明</b><br>
 系统开发环境为PHP+LINUX+Mysql   支持网页版和APP<br>
+前台可以更换UI（样式）支持二开<br>
 <b>在线演示</b><br>
 前台：http://spqd4.sht9688.com    账号：18888888888   密码：123456<br>
 后台：http://spqd4.sht9688.com/admin    账号：test  密码：a123456<br>
