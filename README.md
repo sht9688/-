@@ -12,3 +12,4 @@
 前台：http://spqd4.sht9688.com    账号：18888888888   密码：123456<br>
 后台：http://spqd4.sht9688.com/admin    账号：test  密码：a123456<br>
 <b>截图演示</b><br>
+<img src="https://github.com/sht9688/-/blob/master/img/%E5%89%8D%E5%8F%B0%E6%88%91%E7%9A%84.png"/>
